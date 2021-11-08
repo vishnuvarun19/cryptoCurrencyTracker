@@ -1,0 +1,26 @@
+.logo-name-pro {
+  display: flex;
+
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+}
+
+.item-pro {
+  display: flex;
+  color: white;
+
+  justify-content: space-around;
+}
+
+.value-pro {
+  display: flex;
+
+  width: 40%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.currency-image {
+  height: 3vh;
+}

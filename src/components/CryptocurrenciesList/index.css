@@ -1,0 +1,44 @@
+.page-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-size: cover;
+  background-color: #000000;
+}
+
+.list-pro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.cuu-container {
+  color: white;
+  border: 3px solid #00e7ff;
+  width: 80%;
+}
+
+.item-heading-pro {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-around;
+}
+.unorder-list {
+  padding: 0px;
+}
+p {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.crypto-image {
+  width: 80%;
+}
+
+.heading-pro {
+  color: #00e7ff;
+  text-align: center;
+  width: 50%;
+}
